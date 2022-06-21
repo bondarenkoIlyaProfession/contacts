@@ -1,0 +1,13 @@
+@media screen and (max-width: 1024px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .main {
+    &__title {
+      text-align: center;
+    }
+  }
+}
