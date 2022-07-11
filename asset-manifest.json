@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/contacts/static/css/main.5a83abc4.css",
+    "main.js": "/contacts/static/js/main.9f60321e.js",
+    "static/media/SF-Pro-Rounded-Semibold.otf": "/contacts/static/media/SF-Pro-Rounded-Semibold.74053a50b0a030d6a81e.otf",
+    "static/media/SF-Pro-Rounded-Medium.otf": "/contacts/static/media/SF-Pro-Rounded-Medium.1264eb6ed7934abb6565.otf",
+    "static/media/SF-Pro-Rounded-Bold.otf": "/contacts/static/media/SF-Pro-Rounded-Bold.b782f25243d305af9855.otf",
+    "static/media/SF-Pro-Rounded-Light.otf": "/contacts/static/media/SF-Pro-Rounded-Light.16421a0e62663b3f6cb3.otf",
+    "static/media/SF-Pro-Rounded-Ultralight.otf": "/contacts/static/media/SF-Pro-Rounded-Ultralight.59b8aee03ac29fd425e4.otf",
+    "static/media/SF-Pro-Rounded-Thin.otf": "/contacts/static/media/SF-Pro-Rounded-Thin.2dda7cfa2703e0e4d23e.otf",
+    "static/media/SF-Pro-Rounded-Regular.otf": "/contacts/static/media/SF-Pro-Rounded-Regular.d3910599f6ffeb5f2199.otf",
+    "static/media/SF-Pro-Rounded-Black.otf": "/contacts/static/media/SF-Pro-Rounded-Black.d1bc3f7e26c4543afdef.otf",
+    "static/media/portrait.png": "/contacts/static/media/portrait.4a518728593dca61a548.png",
+    "static/media/jenberg.png": "/contacts/static/media/jenberg.36d1f47a76eab869ea0b.png",
+    "static/media/instagram.svg": "/contacts/static/media/instagram.145e26f193945123b6ed28f6647e42a1.svg",
+    "static/media/slack.svg": "/contacts/static/media/slack.bf871873e59742b9ccb6b7af9b63cff6.svg",
+    "static/media/github.svg": "/contacts/static/media/github.95ad9234e1509d5c93ffe0a9f7eb217a.svg",
+    "static/media/telegram.svg": "/contacts/static/media/telegram.b24b956c4e64d7ea774244ad67e09ac7.svg",
+    "static/media/twitter.svg": "/contacts/static/media/twitter.e9aac3bb5cc8b03ba69c065d4d12ade5.svg",
+    "index.html": "/contacts/index.html",
+    "static/media/linkedin.svg": "/contacts/static/media/linkedin.0904bc36db6c39e2d4ee42a4d8995045.svg",
+    "main.5a83abc4.css.map": "/contacts/static/css/main.5a83abc4.css.map",
+    "main.9f60321e.js.map": "/contacts/static/js/main.9f60321e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a83abc4.css",
+    "static/js/main.9f60321e.js"
+  ]
+}
